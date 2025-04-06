@@ -4,3 +4,5 @@ hostel management system
 custers
 <br>
 take amount give amount
+etc
+
